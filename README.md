@@ -36,43 +36,60 @@ phoneNumber  Email \break
 %Linkedin , Webpage if you have one, or location of where you live%
 /Linkedin/ /Webpage/
 \end{center}
-\begin{center}% This \\ Creates a line under the word as long as i use the "\\" at the end
+\begin{center}
 
 \end{center}
 \vspace{10mm}
 
+
+%Education%
 \section*{}
-\vspace{-30mm}
-\textnormal{{\fontsize{5mm}{5mm}\selectfont Education}\hrulefill\textbf{}}\break
+\vspace{-30mm}%Changes spacing%
+\textnormal{
+    {\fontsize{5mm}{5mm}\selectfont Education}\hrulefill\textbf{}
+}\break
+
+%Fill out the college name%
 \vspace{-.5mm}
-\indent {\fontsize{4mm}{4mm}\selectfont \textbf{College} \textit{} \textbf{\hfill Date start - End date}}
+\indent {\fontsize{4mm}{4mm}\selectfont \textbf{COLLEGE NAME HERE} \textit{} \textbf{\hfill Date start - End date}}
 
-
+%Fill out the type of degree%
 \indent\indent \fontsize{4mm}{4mm}\selectfont \textit{ What is your degree} \hfill {\hfill \textit{Location}}\break
 
+%Adding a second college in case you are a transfer student%
+%If you are not you can remove the format from "%%" to the next "%%"
+
+%%
 \indent {\fontsize{4mm}{4mm}\selectfont \textbf{College} \textit{} \textbf{\hfill Date start - End date}}
 
 \indent\indent \fontsize{4mm}{4mm}\selectfont \textit{ What is your degree} \hfill{\hfill \textit{Location}}
 
 \indent {\indent \fontsize{4mm}{4mm}\selectfont \textit{ What is your degree} \hfill}
+%%
 
-
+%Skills%
 \section*{}
 \vspace{-18mm}
 \textnormal{{\fontsize{5mm}{5mm}\selectfont Skills}\hrulefill\textbf{}}\break
 \vspace{.1mm} \break
-\vspace{-10mm}
+\vspace{-10mm}%Spcaing for the bullet points and the section%
 
+%Start of the bullet points%
+%If you only have two bullet points remove the extra from "%%" to "%%"
 \begin{itemize}
-%{\setlength\itemindent{25pt} \item three}%
-\vspace{.1mm}
+
+\vspace{.1mm}%spacing between the bullet points%
+  %%
   {\setlength\itemindent{25pt} \item Skills Related to your degree}
-  
+  %%
+  \vspace{-2mm}
+  {\setlength\itemindent{25pt} \item Skills Related to your degree}
+
+  %%
   \vspace{-2mm}
   {\setlength\itemindent{25pt} \item Skills Related to your degree}
   
-  \vspace{-2mm}
-  {\setlength\itemindent{25pt} \item Skills Related to your degree}
+  %%
 \end{itemize}
 
 
