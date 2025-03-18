@@ -1,26 +1,26 @@
 # Resume-Template
-LaTeX resume templete
+LaTeX resume template
 
 ## Summary
 
-I wanted to create a resume template for myself and my friends. I encountered challenges when using Word to format the information and adjust the spacing to fit all the necessary details on a single page. To overcome these limitations, I decided to design a resume template using LaTeX, which allowed me to have full control over the layout and ensure a polished, professional appearance that would appeal to potential employers.
+I wanted to create a resume template for my friends and me. I encountered challenges using Word to format the information and adjust the spacing to fit all the necessary details on a single page. To overcome these limitations, I decided to design a resume template using LaTeX, which allowed me to have full control over the layout and ensure a polished, professional appearance that would appeal to potential employers.
 
 ---
-This is the final result for how the page will look, please note it should be only one page.
+This is the final result of how the page will look. Please note that your resume should only be one page long.
 
 <img src="./pictures/finalResult1.png" width=600px>
 
 ## Getting it setup
 1. Create an account using (https://www.overleaf.com/project)[Overleaf]
 2. Once inside Overleaf click on **New Project** and *Blank Project*
-3. Give the blank project a title "New resume template 2025"
+3. Give the blank project the title "New resume template 2025"
 *Below is a picture of where you should be at*
 <br>
 <img src="./pictures/Overleaf.png" width=600px>
 <br>
 
 4. Delete the LaTeX syntax to the left of the page from ```\documentclass{article}``` to the end of the file ```\end{document}```
-5. Once everything is deleted paste the Latex markup language in the side we just deleted.
+5. Once everything is deleted paste the Latex markup language on the side we just deleted.
 
 ```LaTex
 \documentclass{article}
