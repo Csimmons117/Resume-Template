@@ -4,6 +4,10 @@ LaTeX resume templete
 ## Summary
 
 I wanted to create a resume template for myself and my friends. I encountered challenges when using Word to format the information and adjust the spacing to fit all the necessary details on a single page. To overcome these limitations, I decided to design a resume template using LaTeX, which allowed me to have full control over the layout and ensure a polished, professional appearance that would appeal to potential employers.
+---
+This is the final result for how the page will look, please note it should be only one page.
+
+[finalResult.png](finalResult.png)
 
 ## Getting it setup
 1. Create an account using (https://www.overleaf.com/project)[Overleaf]
