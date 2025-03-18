@@ -7,7 +7,7 @@ I wanted to create a resume template for myself and my friends. I encountered ch
 ---
 This is the final result for how the page will look, please note it should be only one page.
 
-<img src="./pictures/finalResult.png" width=600px>
+<img src="./pictures/finalResult.pn" width=600px>
 
 ## Getting it setup
 1. Create an account using (https://www.overleaf.com/project)[Overleaf]
